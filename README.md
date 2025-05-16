@@ -1,4 +1,4 @@
-# RAPL_power
+# Intel RAPL power monitoring
 There are four different files:
 
 * rapl_power_monitoring.sh: Continuously reads energy measurements, converts them to power, and both displays and saves the data as a CSV file.
